@@ -1,0 +1,449 @@
+{
+  "cookies": [
+    {
+      "name": "route",
+      "value": "9c37f51044351579434668d06208c8e7",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "renderid",
+      "value": "publisher2",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.367215124.1716487287",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1724263287,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1716488187.62205,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJ4Ac-h_Oi1gCNk6T",
+      "value": "",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4MiCzJcrhQ4",
+      "value": "",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4MiCzKSoc",
+      "value": "",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4MiCzDSaYiA",
+      "value": "",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdcL",
+      "value": "1",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1751047287.637686,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdk-R",
+      "value": "56ade9b7-eb40-4d9c-8902-da2d4df84412",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1751047287.638486,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdkLzJhXhh",
+      "value": "1716487288",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdkLW6",
+      "value": "a3ec8c2e-4875-42cb-bff0-f0d96d385650",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdeLz5crdh",
+      "value": "1",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdeLW6",
+      "value": "86f4dcda-d815-40da-ba42-906d2d307977",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdeLzJhXhh",
+      "value": "1716487288",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": 1716490887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "79f73600192e11efa369191fccef61f6",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1716573687,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "79f73ef0192e11efb14405d17a4eeb83",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1750183287,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.46029507.1716487288",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1751047287.752852,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EYGYLWSTX2",
+      "value": "GS1.1.1716487287.1.0.1716487287.60.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1751047287.765703,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_mkto_trk",
+      "value": "id:030-GZP-996&token:_mch-epam.com-1716487287772-75655",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1751047287.772442,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_sugr",
+      "value": "0b83baae-e91e-4eb5-94c2-f318027973b2",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1724263287.952506,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&f681f65b-457a-4366-82e9-7d48bce35709\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1748023289.0308,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST07:s=V:r=V:a=V:p=V:g=2963:u=1:x=1:i=1716487289:t=1716573689:v=2:sig=AQEr06t5Q0k6l-6-AaApOr3M6zSGq6-D\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1716573687.792563,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_1638007",
+      "value": "eyJpZCI6IjIxMGQ3YWM0LTY1OTctNTgxYS05YTk3LWRhMTdhNTU3MTE4MyIsImNyZWF0ZWQiOjE3MTY0ODcyODc4MTcsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1748023287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_1638007",
+      "value": "eyJpZCI6ImE2ZDFhNjliLTkzNWEtNDg0NC1hOGVlLTJkN2ZmMTVmYWVhYSIsImMiOjE3MTY0ODcyODc4MTksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1716489087,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1716487287905.287502695",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1724263290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQK4ddT3HI4TcQAAAY-mnXxT4BJCGH8uAIypwK3CtGJ84DMkjV4IlLElRNxMXvG1DhiZQ4d5WMoGSA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1719079287.952663,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQJV2LxCpktqdAAAAY-mnXxT_FJHKHoh1JCw-QXv5KL5uQH1n1BugBlMdtUXWe-OnACIxfnsoIBfdMhAnL_e6Q",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1719079287.952708,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&2024052318013031694359-9614-45ac-8d68-0b3bea629ca0AQGBtqPqgCqpkCprxp7BSgku7ZsPaexC\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1748023289.110816,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "value": "MTswOzE3MTY0ODcyOTA7MjswMjFYhWqwy7jgWG5dTx3S8WMy7TuSpSKWSeV8S0sv41hAcg==",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1732039289.110952,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2024-05-23T18:01:30.203Z",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1748023290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Thu+May+23+2024+20%3A01%3A30+GMT%2B0200+(Central+European+Summer+Time)&version=6.36.0&isIABGlobal=false&hosts=&consentId=b63b4d34-b4ae-4ad9-a77e-3c632af78491&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&iType=1",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1748023290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "14DFD62668986BDF3B65C2AE69B06A37",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1750183290.676165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "9192c5c9800e427b81978f90cde2dfba.20240523.20250523",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1748023290.430951,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "15klke2%7C2%7Cfm0%7C0%7C1604",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1748023290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1717092090.676317,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "14DFD62668986BDF3B65C2AE69B06A37",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1750183290.676337,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "14DFD62668986BDF3B65C2AE69B06A37",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1750183290.72873,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1717092090.728762,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1716487890.728781,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.epam.com",
+      "localStorage": [
+        {
+          "name": "ContextHubPersistence",
+          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280.0000190734863,\"height\":720.0000107288361},\"devicePixelRatio\":1.0000000149011612,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280.0000190734863,\"height\":720.0000107288361},\"percentageUsage\":1},\"browser\":{\"version\":\"125.0.0.0\",\"family\":\"Chrome\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"windows\"},\"isMobile\":true,\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"year\":2024,\"month\":5,\"day\":23,\"hour\":20,\"minutes\":1},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"pl-l10n-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/pl-l10n-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/pl-l10n-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1716487286222,\"raw-response\":{}},\"location\":{\"continent\":\"Europe\",\"continentCode\":\"EU\",\"country\":\"Poland\",\"countryCode\":\"PL\",\"region\":\"Pomerania\",\"regionCode\":\"22\",\"city\":\"Gdansk\",\"postalCode\":\"80-886\",\"latitude\":\"54.35300\",\"longitude\":\"18.65900\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"PL\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Fri, 24 May 2024 18:01:27 GMT"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1716487287901"
+        },
+        {
+          "name": "_uetvid",
+          "value": "79f73ef0192e11efb14405d17a4eeb83"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Tue, 17 Jun 2025 18:01:27 GMT"
+        },
+        {
+          "name": "_uetsid",
+          "value": "79f73600192e11efa369191fccef61f6"
+        }
+      ]
+    }
+  ]
+}
